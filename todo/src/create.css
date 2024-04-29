@@ -1,0 +1,27 @@
+button{
+    background-color: brown;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-weight: 500;
+    font-size: medium;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 6%;
+    height: 35px;
+     margin-left: 4px;
+}
+input{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 6%;
+    margin-left: 5px;
+    width: 300px;
+    height: 35px;
+   
+}
+/* div{
+    border: 2px solid red;
+} */

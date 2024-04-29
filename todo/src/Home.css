@@ -1,0 +1,29 @@
+.main{
+    display: grid;
+   place-items: center;
+   margin-top: 10%;
+}
+.innermain{
+    padding: 10px;
+}
+h2{
+    color: brown;
+    font-size: 80px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.norecord{
+    font-size: x-large;
+    font-weight: 700;
+    padding-top: 20px;
+    text-align: center;
+}
+.list{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    margin-top: 14px;
+    padding:2px;
+    border-radius: 3%;
+}
